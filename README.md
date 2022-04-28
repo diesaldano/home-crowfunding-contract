@@ -1,15 +1,6 @@
-# Basic Sample Hardhat Project
+# Deploy project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+You can feel free to use the code for run in Remix IDE ( apliccation for run smart contract in solidity ). Also you can use Truffle Suite with Ganasche CLI for get a simulation for the blockchain of the Ethereum.
 
-Try running some of the following tasks:
+You can use the network of Ropsten for deploy the contract and try the features. 
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
