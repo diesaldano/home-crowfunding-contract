@@ -11,6 +11,8 @@ Wallet: you need a wallet to connect and interact with the smart contract for ex
 Metamask. Visit the official site: ´´https://metamask.io/´´
 Etherscan: you can visit the your contract deployed in ''https://www.etherscan.io/''
 
+Twitter: @diesaldano
+Linkedin: /diesaldano
 
 
 
